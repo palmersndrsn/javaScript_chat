@@ -1,0 +1,29 @@
+.chatbox {
+	background: url(http://subtlepatterns.com/patterns/congruent_outline.png);
+	background-color: black;
+	width: 500px;
+	height: 300px;
+	color: red;
+	display: block;
+	overflow-y: scroll;
+	border: grey 5px solid;
+}
+.chat {
+ margin: 10px;
+}
+h1 {
+	margin: 5px;
+}
+#submit {
+	display: inline-block;
+	padding: 9.5px;
+	position: relative;
+	bottom: 12px;
+	right: 4px;
+}
+#text {
+	width: 445px;
+}
+#user {
+	display: inline;
+}
